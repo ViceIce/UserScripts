@@ -14,10 +14,10 @@
   resolved "https://registry.yarnpkg.com/@types/sizzle/-/sizzle-2.3.2.tgz#a811b8c18e2babab7d542b3365887ae2e4d9de47"
   integrity sha512-7EJYyKTL7tFR8+gDbB6Wwz/arpGa0Mywk1TJbNzKzHtzbwVmY4HR9WqS5VV7dsBUKQmPNr192jHr/VpBluj/hg==
 
-"@types/tampermonkey@4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@types/tampermonkey/-/tampermonkey-4.0.0.tgz#fd654ea1191f6ae7acd7e9ddc19c67ed062a1495"
-  integrity sha512-StJoz2Cw5bM5Eqp/68O/X1rjI5aw7hGfbji6eXiY+ERN4o8lyfLvJKD91zXmdhUqK157QBjcCtzJUtU+qmAOFA==
+"@types/tampermonkey@4.0.2":
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/@types/tampermonkey/-/tampermonkey-4.0.2.tgz#e28f8ee330538401e7cc1746c4da784d9d374c16"
+  integrity sha512-KMDDTaT3UXDNwYFF2MKAe5s4HsAEZeRw/aidZdEeaddN5sf83wFddG3gF/QYmJ8Cm9YPwAHF65rwNd12DBQw8w==
 
 typescript@4.3.2:
   version "4.3.2"
